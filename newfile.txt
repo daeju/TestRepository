@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 file editdwdw
-=======
-dawdwd\
-
-dwadwa
->>>>>>> parent of 2692f60... 커밋테스트
